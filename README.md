@@ -22,5 +22,5 @@ A simple and interactive Quiz App built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🙋‍♀️ Author
 
-**Fiza Khan**  
+**Fizza Khan**  
 📬 [GitHub](https://github.com/kfizza1)
